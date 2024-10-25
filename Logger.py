@@ -1,6 +1,6 @@
 from discord.ext import commands
 import discord
-
+#This is old code, may not work properly!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 BOT_TOKEN = ""
 ReportChat = 0
 generalChat = 0
